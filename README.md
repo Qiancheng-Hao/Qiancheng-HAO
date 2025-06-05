@@ -1,1 +1,1 @@
-![My Custom Profile](profile.svg)
+![Live Clock](clock.svg)
