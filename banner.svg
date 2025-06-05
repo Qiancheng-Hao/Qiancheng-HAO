@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <linearGradient id="grad" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="rgba(199,134,207,0.49)"/>
+      <stop offset="50%" stop-color="rgba(118,234,207,0.68)"/>
+      <stop offset="100%" stop-color="rgba(74,20,213,0.53)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="300" rx="80" fill="url(#grad)"/>
+  <!-- Clickable text -->
+  <a href="https://qiancheng-hao.github.io/" target="_blank">
+    <text x="400" y="150" 
+          font-family="Arial" 
+          font-size="40" 
+          fill="#a139d5" 
+          text-anchor="middle" 
+          dominant-baseline="middle"
+          font-weight="bold"
+          style="cursor: pointer">
+      Qiancheng HAO
+    </text>
+  </a>
+</svg>
