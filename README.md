@@ -1,1 +1,1 @@
-![Live Preview](preview-image.png)](https://qiancheng-hao.github.io)
+![My Custom Profile](profile.svg)
