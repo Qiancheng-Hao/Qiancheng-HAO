@@ -8,7 +8,7 @@
   </defs>
   <rect width="800" height="300" rx="80" fill="url(#grad)"/>
   <!-- Clickable text -->
-  <a href="https://qiancheng-hao.github.io/" target="_blank">
+  <a href="https://qiancheng-hao.github.io/Dynamic-Gradient-Clock-with-Mouse-Interaction/" target="_blank">
     <text x="400" y="150" 
           font-family="Arial" 
           font-size="40" 
